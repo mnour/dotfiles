@@ -1,2 +1,3 @@
 # dotfiles
-My OpenBSD .files
+My OpenBSD .files for:
+- CWM
