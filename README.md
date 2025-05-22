@@ -1,5 +1,8 @@
 # dotfiles
-My OpenBSD .files for:
+My OpenBSD dotfiles for:
 - X
 - CWM
-- SSH Config
+- SSH Config Template
+- Vim
+- Neovim
+
