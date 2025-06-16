@@ -5,4 +5,5 @@ My OpenBSD dotfiles for:
 - SSH Config Template
 - Vim
 - Neovim
+- WezTerm
 
